@@ -1,0 +1,36 @@
+name,parent
+Vice-Chancellor,null
+Pro-VC 1,Vice-Chancellor
+Pro-VC 2,Vice-Chancellor
+Pro-VC 3,Vice-Chancellor
+Pro-VC 4,Vice-Chancellor
+Head of HR,Pro-VC 1
+Head of IT,Pro-VC 1
+Head of Facilities,Pro-VC 1
+Head of Finance,Pro-VC 1
+Head of Students,Pro-VC 2
+Head of Faculty,Pro-VC 2
+Head of Projects,Pro-VC 3
+HR Grunt 1,Head of HR
+HR Grunt 2,Head of HR
+HR Grunt 3,Head of HR
+HR Grunt 4,Head of HR
+HR Grunt 5,Head of HR
+Code Monkey 1,Head of IT
+Code Monkey 2,Head of IT
+Code Monkey 3,Head of IT
+Accountant 1,Head of Finance
+Accountant 2,Head of Finance
+Accountant 3,Head of Finance
+Accountant 4,Head of Finance
+Chief Cook,Head of Facilities
+Chief Cleaner,Head of Facilities
+Kitchen Grunt 1,Chief Cook
+Kitchen Grunt 2,Chief Cook
+Kitchen Grunt 3,Chief Cook
+Kitchen Grunt 4,Chief Cook
+Kitchen Grunt 5,Chief Cook
+Kitchen Grunt 6,Chief Cook
+Cleaning Grunt 1,Chief Cleaner
+Cleaning Grunt 2,Chief Cleaner
+Cleaning Grunt 3,Chief Cleaner
